@@ -1,20 +1,13 @@
-class Bank extends BankInfo {
-	
+package labcode06oct;
 
-	void clientId()
-	{
-		super.clientId();
-		int A = 10001;
-		System.out.println(" Client Id is : "+ a);
-		
-	}
-	void clientName()
-	{
-		super.clientName();
-		int A = Rafat Shaikh;
-		System.out.println(" Client Name is : "+ a);
-		
-	}
-		public static void main(String[] args) 
+public class Bank 
+{
+		void bank()
 		{
+			System.out.println("Interest is 0%");
+		}
+
 }
+
+
+
